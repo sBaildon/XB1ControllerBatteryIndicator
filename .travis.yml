@@ -1,0 +1,4 @@
+language: csharp
+solution: XB1ControllerBatteryIndicator\XB1ControllerBatteryIndicator.csproj
+notifications:
+  email: false
